@@ -1,0 +1,16 @@
+.config-options {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80%;
+  max-width: 400px;
+}
+
+.config-options input,
+.config-options select {
+  width: 50%;
+}
+
+.config-options input {
+  outline: none;
+}

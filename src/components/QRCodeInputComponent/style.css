@@ -1,0 +1,15 @@
+.QRCodeInput {
+  width: 80%;
+  max-width: 400px;
+}
+
+.QRCodeInput input {
+  width: 100%;
+  background-color: unset;
+  border: 0;
+  border-bottom: 1px solid lightgray;
+  margin-top: 10px;
+  padding: 5px 5px;
+  outline: none;
+  color: white;
+}
